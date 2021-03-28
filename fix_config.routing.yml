@@ -1,0 +1,7 @@
+fix_config.fix:
+    path: '/fix_config/fix'
+    defaults:
+        _controller: '\Drupal\fix_config\Controller\FirstController::fix'
+        _title: 'Fix config page'
+    requirements:
+        _permission: 'access content'

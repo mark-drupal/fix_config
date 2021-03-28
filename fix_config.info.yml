@@ -1,0 +1,4 @@
+name: Fix_config
+type: module
+core: '8.x'
+description: 'This is a module to fix the entity config'
